@@ -6,7 +6,7 @@ authors:
   - family-names: Mohiuddin
     given-names: Gulam
     affiliation: Eberswalde University for Sustainable Development
-repository-code: https://github.com/USERNAME/landsat-gee-practical
+repository-code: https://github.com/mohigeo33/landsat-gee-practical
 license: MIT
 keywords:
   - google earth engine
