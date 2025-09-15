@@ -2,8 +2,6 @@
 
 **Author of the code**: ***[Gulam Mohiuddin](https://www.linkedin.com/in/mohigeo33/)*** (2025)  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17121725.svg)](https://doi.org/10.5281/zenodo.17121725)
-
 ## 📑 Citation for the code
 
 If you use **Landsat + GEE: Basic Operations & Visualization (Phnom Penh)** in your work, please cite the Zenodo archive:
