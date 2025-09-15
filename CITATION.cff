@@ -15,3 +15,9 @@ keywords:
   - forestry
 version: 0.1.0
 date-released: 2025-09-15
+
+identifiers:
+  - description: "DOI for all versions"
+    type: doi
+    value: 10.5281/zenodo.17121725
+
