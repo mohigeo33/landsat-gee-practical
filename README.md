@@ -4,6 +4,12 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17121725.svg)](https://doi.org/10.5281/zenodo.17121725)
 
+## 📑 Citation for the code
+
+If you use **Landsat + GEE: Basic Operations & Visualization (Phnom Penh)** in your work, please cite the Zenodo archive:
+
+> Mohiuddin, G. (2025). *Landsat + GEE: Basic Operations & Visualization (Phnom Penh)* (v0.1.0) [Software]. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17121725.svg)](https://doi.org/10.5281/zenodo.17121725)
+
 This repository contains a clean, ready-to-run **Google Earth Engine (Python)** workflow focused on **Landsat 8 Collection 2, Level-2** data:
 
 - Select the **least-cloudy** image from a prepared collection (`imgCol_merge_L8_band_coh`).
