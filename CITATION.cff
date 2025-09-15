@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Landsat + GEE: Basic Operations & Visualization (Phnom Penh)"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Mohiuddin
+    given-names: Gulam
+    affiliation: Eberswalde University for Sustainable Development
+repository-code: https://github.com/USERNAME/landsat-gee-practical
+license: MIT
+keywords:
+  - google earth engine
+  - landsat
+  - thermal remote sensing
+  - forestry
+version: 0.1.0
+date-released: 2025-09-15
