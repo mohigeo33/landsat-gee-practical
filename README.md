@@ -81,7 +81,7 @@ landsat-gee-practical/
 
 ## Notes
 
-- Your script expects a **preprocessed** collection named `imgCol_merge_L8_band_coh` where **scale/offset is already applied** and **bands renamed** to: `B, G, R, NIR, SWIR1, SWIR2` and thermal `LST`.
+- The script expects a **preprocessed** collection named `imgCol_merge_L8_band_coh` where **scale/offset is already applied** and **bands renamed** to: `B, G, R, NIR, SWIR1, SWIR2` and thermal `LST`.
 - In standard Python scripts, lines starting with `!` (e.g., `!pip install ...`) are **IPython/Notebook magics**. Keep the workflow in a notebook or change those lines to standard pip calls if running as a pure script.
 
 ---
