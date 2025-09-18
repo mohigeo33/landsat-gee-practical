@@ -26,7 +26,7 @@ import geopandas as gpd
 ee.Authenticate()
 
 # initialize the GEE.
-ee.Initialize(project='ee-mohigeo33')
+ee.Initialize(project='ENTER YOUR PROJECT NAME HERE')
 
 """**2. Introducing area of interest (AOI)**"""
 
@@ -296,3 +296,4 @@ Map.add_colorbar_branca(
 # Visualising the NDBI result
 Map.addLayer(ndbi, pal_ndbi, 'NDBI')
 Map
+
